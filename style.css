@@ -181,3 +181,11 @@ img.headshot {
 .skill-icons .fa {
     font-size: 200px;
 }
+
+/*proyectos*/
+img.project {
+	margin: 20px auto 0;
+    width: 170px;
+    height: auto;
+    border-radius: 10%;
+}
